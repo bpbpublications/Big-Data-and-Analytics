@@ -1,0 +1,6 @@
+{ 
+"employee name": "Rohit Agarwal", 
+"employee skills": "Research Associate", 
+"employee salary": 17000, 
+" employee salary ": true, 
+}

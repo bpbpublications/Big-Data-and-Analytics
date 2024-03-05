@@ -1,0 +1,6 @@
+{ 
+"employee name": "Rohit Agarwal ", 
+"employee": ISODate("1987-02-12T12:55:47.388Z"),
+ "employee marks": 90.60, 
+}
+

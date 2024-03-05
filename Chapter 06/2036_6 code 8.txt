@@ -1,0 +1,7 @@
+{
+" intern name":  " Rohit Agarwal ",
+" intern skills": ["Software Engineer", "C", "Python"],
+" intern score":  79.60,
+" intern status":  true,
+}
+

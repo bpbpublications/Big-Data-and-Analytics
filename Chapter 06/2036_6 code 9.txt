@@ -1,0 +1,11 @@
+{
+"product code": "38976-XLRS",
+"product price": 33.89,
+"product dimensions": {
+"Product _height": 9231,
+"product width": 97,
+"product depth": 570,
+},
+"product availability": true,
+}
+

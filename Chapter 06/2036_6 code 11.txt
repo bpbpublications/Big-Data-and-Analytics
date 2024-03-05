@@ -1,0 +1,8 @@
+{
+"_id": "65343yrt7965",
+"product code": "76434RDSD",
+"product price": 76.99,
+"product availability": true,
+"product_picture":BinData(1, "rhggd56443kl456..."),
+}
+

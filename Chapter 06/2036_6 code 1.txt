@@ -1,0 +1,6 @@
+{
+Title: ‘Big Data & Analysis’, 
+by: ‘Rajesh Kumar’,
+url: ‘https://www.Big Data & Analysis.in
+type: ‘NoSQL’
+}

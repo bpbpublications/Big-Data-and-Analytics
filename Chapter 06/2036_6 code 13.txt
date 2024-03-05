@@ -1,0 +1,5 @@
+// Skip the first 5 documents and retrieve the remaining documents from the "users" collection
+db.users.find().skip(5);
+// Skip 10 documents that match a specific condition and retrieve the remaining documents
+db.users.find({ age: { $gt: 25 } }).skip(10);
+

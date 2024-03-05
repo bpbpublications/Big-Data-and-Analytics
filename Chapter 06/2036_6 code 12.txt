@@ -1,0 +1,7 @@
+{
+"product code": "38976-XLRS ",
+"product price": 33.89,
+"product created": Timestamp (1576549567, 1),
+"product availability": true,
+}
+
